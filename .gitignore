@@ -4,4 +4,4 @@
 .esphome/
 secrets.yaml
 .vscode/
-
+.DS_Store
